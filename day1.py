@@ -1,3 +1,4 @@
+# Day 1 - Numerical Operations
 print("Day 1 - Numerical Operations ")
 print(5 + 3)    # Addition        → 8
 print(5 - 3)    # Subtraction     → 2
